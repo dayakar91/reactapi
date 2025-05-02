@@ -23,7 +23,7 @@ var urlencode=bodyparse.urlencoded({extended:false});
 //   });
 
 //here comments for reactapi move to git
-
+//here comment for reactapi move server to localmachine
 var connection = mysql.createConnection(config.db);
   
 app.use(cors());
