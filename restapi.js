@@ -22,6 +22,8 @@ var urlencode=bodyparse.urlencoded({extended:false});
 //     database: 'reactapi'
 //   });
 
+//here comments for reactapi move to git
+
 var connection = mysql.createConnection(config.db);
   
 app.use(cors());
